@@ -1,3 +1,5 @@
+import json
+
 class Credentials:
     """
     Class that generates new instances of usersLogin.
@@ -5,7 +7,7 @@ class Credentials:
 
     userLogin_list = []
 
-    
+    accounts = "accounts.json"
 
     def __init__(self,username,password,accountType):
         self.username = username
