@@ -8,8 +8,8 @@ A python application that allows a user to create a new account , login to the a
 ## Installations
 run
 
->1. `` git clone https://github.com/kaphie/PassLock.git `` 
->2. ``cd PassLocker``
+>1. `` git clone git@github.com:kaphie/PassLocker.git `` 
+>2. ``cd PassLock``
 >3. To run the app,  use  ``` python3.6 run.py ```
 >4. To tun Tests,  use  `` python3.6-m unittest``
 
