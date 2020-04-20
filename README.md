@@ -15,11 +15,12 @@ run
 
 
 ## Setup
-> Install these first:
-* Python3.6
-* pyFiglet
-* pyperclip
-* Termcolor
+> sign in 
+> Use these short codes to navigate the app. 
+* nw - Create a new account locker.
+* dp - Display account lockers.
+* dt - Delete Account.
+* ex - Exit Password Locker.
 
 ## Technologies used
 * Python3.6
