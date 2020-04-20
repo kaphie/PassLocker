@@ -2,6 +2,26 @@
 from user import Credentials
 import random
 
+
+
+welcome = f""" 
+ 
+***********************************************************
+*                                                         *
+*                kaphie's Password Locker:                  *
+*                                                         *
+***********************************************************
+\n
+User Menu:  
+    - 1: Login
+    - 2: Create a new account
+    - q: quit the application \n
+Choose an option:
+
+ """
+
+ 
+
 def create_user_account(username,password,accountType):
     new_user_account = Credentials(username,password,accountType)
     return new_user_account
