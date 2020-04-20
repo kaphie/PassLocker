@@ -85,7 +85,7 @@ def main():
         elif short_code == 'dp':
 
             if display_user_accounts():
-                print("Here is a list of all your Accounts details")
+                print("Your Accounts details are!")
                 print('\n')
 
                 for Credentials in display_user_accounts():
@@ -94,7 +94,7 @@ def main():
                 print('\n')
             else:
                 print('\n')
-                print("You dont seem to have any Account information yet")
+                print("You dont have any Account information yet")
                 print('\n')
 
         elif short_code == "dt":
