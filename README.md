@@ -19,8 +19,8 @@ run
 > Use these short codes to navigate the app. 
 * nw - Create a new account locker.
 * dp - Display account lockers.
-* dt - Delete Account.
-* ex - Exit Password Locker.
+* del - Delete Account.
+* ext - Exit Password Locker.
 
 ## Technologies used
 * Python3.6
