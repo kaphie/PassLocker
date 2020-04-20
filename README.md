@@ -10,13 +10,13 @@ run
 
 >1. `` git clone https://github.com/kaphie/PassLock.git `` 
 >2. ``cd PassLocker``
->3. To run the app,  use  ``` python3 app.py ```
->4. To tun Tests,  use  `` python3 -m unittest``
+>3. To run the app,  use  ``` python3.6 run.py ```
+>4. To tun Tests,  use  `` python3.6-m unittest``
 
 
 ## Setup
 > Install these first:
-* Python3
+* Python3.6
 * pyFiglet
 * pyperclip
 * Termcolor
