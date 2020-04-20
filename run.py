@@ -47,7 +47,7 @@ def main():
     print (f"Hello {user_name} \n Your password is {user_password}")
 
     while True:
-        print("Use these short codes : nw - Create a new account locker., dp - Display account lockers., dt - Delete Account., ex - Exit Password Locker.  ")
+        print("Use these short codes : nw - Create a new account locker., dp - Display account lockers., del - Delete Account., ext - Exit Password Locker.  ")
 
         short_code = input().lower()
 
