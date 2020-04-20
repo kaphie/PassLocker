@@ -3,11 +3,11 @@ from user import Credentials
 
 class TestUser(unittest.TestCase):
     def setUp(self):
-        self.newlogin = Credentials("kaphie","2001","putlocker")
+        self.newlogin = Credentials("kaphie","2000","putlocker")
 
     def test_init(self):
         self.assertEqual(self.newlogin.username,"kaphie")
-        self.assertEqual(self.newlogin.password,"2001")
+        self.assertEqual(self.newlogin.password,"2000")
         self.assertEqual(self.newlogin.accountType,"putlocker")
 
     def test_save_user_account(self):
