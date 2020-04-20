@@ -58,7 +58,9 @@ run
 
 
 ## License
-> MIT License &copy 2020 kaphie
+>The MIT License (MIT)
+
+Copyright © 2020 kaphie
 
 ## Collaborate
 To collaborate, reach me on [bkafrika144@gmail.com]()
