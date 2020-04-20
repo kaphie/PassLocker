@@ -48,6 +48,9 @@ run
 | User accounts with their credentials  |  Stored user accounts and their passwords |
 |     |      |
 
+## Known bugs
+* The delete funtion is default.
+
 
 ## License
 > MIT License &copy 2020 kaphie
