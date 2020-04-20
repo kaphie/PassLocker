@@ -13,6 +13,10 @@ run
 >3. To run the app,  use  ``` python3.6 run.py ```
 >4. To tun Tests,  use  `` python3.6-m unittest``
 
+# Dependencies
+* User.py - has funtions for the program.
+* UserTest.py - tests the program functions.
+* run.py - executes the program functions.
 
 ## Setup
 > sign in 
