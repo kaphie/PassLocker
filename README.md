@@ -22,7 +22,7 @@ run
 * Termcolor
 
 ## Technologies used
-* Python3
+* Python3.6
 
 
 ## BDD(Behaviour Driven Development)
@@ -50,8 +50,8 @@ run
 
 
 ## License
-> MIT License &copy 2019 Victor 
+> MIT License &copy 2020 kaphie
 
 ## Collaborate
-To collaborate, reach me on [waichigovick@gmail.com]()
+To collaborate, reach me on [bkafrika144@gmail.com]()
 
