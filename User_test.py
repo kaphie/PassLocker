@@ -19,7 +19,7 @@ class TestUser(unittest.TestCase):
 
     def test_save_multiple_user_accounts(self):
         self.newlogin.save_user_account()
-        test_user = Credentials("names_using","passusing","accountusing")
+        test_user = Credentials("namesusing","passusing","accountusing")
         test_user.save_user_account()
         self.assertEqual(len(Credentials.userLogin_list),2)
 
