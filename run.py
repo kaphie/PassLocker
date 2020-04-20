@@ -91,7 +91,7 @@ def main():
                 break
 
         else:
-                print("I really didn't get that. Please use the short codes")
+                print("I did not get that. Please use the short codes")
 
 
 
